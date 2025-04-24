@@ -1,2 +1,3 @@
-# Restaurant
+# restaurant-app
+
 Created with CodeSandbox
